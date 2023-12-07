@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pavank-1812
+# 👋 Hi there, I’m Pavan Kanamarlapudi
 - 👀 I’m interested in WEB DEVELOPMENT (MERN STACK)
 - 🌱 I’m currently learning FULL-STACK WEB DEVELOPMENT through Cuvette Bootcamp.
 
