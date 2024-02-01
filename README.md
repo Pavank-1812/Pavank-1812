@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pavanakanamarlapudi18@gmail.com**
 
-- ⚡ Python was not named after a snake.
+- ⚡ Fun fact Python was not named after a snake.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
