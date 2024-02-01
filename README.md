@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
-<h3 align="center">A passion MERN Stack Developer from India</h3>
+<h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img align="right" width="400px" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavank-1812&label=Profile%20views&color=0e75b6&style=flat" alt="pavank-1812" /> </p>
