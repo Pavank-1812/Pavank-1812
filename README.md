@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan Kumar</h1>
+<h1 align="center">Hi 👋, I'm Pavan Kanamarlapudi</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 <img align="right" width="400px" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" >
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Super App](https://github.com/Pavank-1812/SuperApp)
 
-- 🌱 I’m currently learning, **MERN stack**
+- 🌱 I’m currently learning, **MERN Stack**
 
 - 👨‍💻 Some of my projects are available at [https://my-portfolio-ruddy-seven.vercel.app/#home](https://my-portfolio-ruddy-seven.vercel.app/#home)
 
