@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavank-1812&label=Profile%20views&color=0e75b6&style=flat" alt="pavank-1812" /> </p>
 
-- 🔭 I’m currently working on [Super App](https://github.com/Pavank-1812/Job-Platform)
+- 🔭 I’m currently working on [Job Platform](https://github.com/Pavank-1812/Job-Platform)
 
 - 🌱 I’m currently learning, **MERN Stack**
 
