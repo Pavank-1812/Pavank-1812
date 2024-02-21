@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning, **MERN Stack**
 
-- 👨‍💻 Some of my projects are available at [https://my-portfolio-ruddy-seven.vercel.app/#home](https://pavankanamarlapudi.netlify.app/)
+- 👨‍💻 Some of my projects are available at [Pavan Kanamarlapudi](https://pavankanamarlapudi.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, Java**
 
