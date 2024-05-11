@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavank-1812&label=Profile%20views&color=0e75b6&style=flat" alt="pavank-1812" /> </p>
 
-- 🔭 I’m currently working on [MERN Chat Application](https://github.com/Pavank-1812/MERN-Chat-App)
+- 🔭 I’m currently working on [MERN Chat Application](https://github.com/Pavank-1812/Portfolio.2.O)
 
 - 🌱 I’m currently learning, **MERN Stack**
 
-- 👨‍💻 Some of my projects are available at [Pavan Kanamarlapudi](https://pavankanamarlapudi.netlify.app/)
+- 👨‍💻 Some of my projects are available at [Pavan Kanamarlapudi](https://pavankanamarlapudi18.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, Java**
 
