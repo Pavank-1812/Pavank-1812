@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pavan Kanamarlapudi</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+<h3 align="center">Data Analyst</h3>
 <img align="right" width="400px" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavank-1812&label=Profile%20views&color=0e75b6&style=flat" alt="pavank-1812" /> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/Pavank-1812/Portfolio.2.O)
+- 🔭 I’m currently working at [LTM](https://www.ltm.com/)
 
-- 🌱 I’m currently learning, **MERN Stack**
+- 🌱 I’m currently learning, **Data Science & AI**
 
 - 👨‍💻 Some of my projects are available at [Pavan Kanamarlapudi](https://pavankanamarlapudi18.netlify.app/)
 
-- 💬 Ask me about **React, JavaScript, Java**
+- 💬 Ask me about **Data Analysis, Data Visualization**
 
 - 📫 How to reach me **pavanakanamarlapudi18@gmail.com**
 
